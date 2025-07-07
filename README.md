@@ -29,13 +29,13 @@
 ## 🌿 Connect with Me
 
 <p align="left">
-  <a href="https://www.instagram.com/hisInstagram/" target="_blank">
+  <a href="https://www.instagram.com/rezevix/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=27ae60" alt="Instagram" />
   </a>
-  <a href="https://discordapp.com/users/hisDiscordID" target="_blank">
+  <a href="https://discordapp.com/users/rezevix" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white&color=27ae60" alt="Discord" />
   </a>
-  <a href="https://www.youtube.com/@hisYouTube" target="_blank">
+  <a href="https://www.youtube.com/rezevix" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=27ae60" alt="YouTube" />
   </a>
 </p>
