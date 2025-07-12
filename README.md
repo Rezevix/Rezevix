@@ -4,7 +4,7 @@
 
 <div align="center">
   <strong style="color: #2ecc71;">
-    Passionate 18 year old developer focused on crafting efficient solutions and fixing problems with clean, creative code.
+    Passionate 19 year old developer focused on crafting efficient solutions and fixing problems with clean, creative code.
   </strong>
 </div>
 
