@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <strong style="color: #2ecc71;">
+  <strong style="color: #087816;">
     Founder and Co-Owner of Nullbyte Labs
   </strong>
 </div>
